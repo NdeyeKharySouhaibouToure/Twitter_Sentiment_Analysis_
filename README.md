@@ -66,10 +66,10 @@ Utilisez les textes suivants pour tester l'analyse de sentiment :
 ## Captures d'écran
 
 ### Page d'accueil
-![Page d'accueil](./Sentiment-Analysis-with-Transformers/app_screens/accueil.png)
+![Page d'accueil](./app_screens/accueil.png)
 
 ### Exemple de prédiction
-![Exemple de prédiction](./Sentiment-Analysis-with-Transformers/app_screens/positif.png)
+![Exemple de prédiction](./app_screens/positif.png)
 
 ## Informations sur le dataset
 

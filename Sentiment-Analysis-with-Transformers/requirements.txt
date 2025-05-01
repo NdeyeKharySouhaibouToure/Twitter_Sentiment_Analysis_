@@ -1,7 +1,0 @@
-streamlit
-deepl
-transformers
-torch
-tensorflow
-scikit-learn
-pandas
